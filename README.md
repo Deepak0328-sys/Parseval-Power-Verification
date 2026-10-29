@@ -1,4 +1,3 @@
-# Parseval-Power-Verification
 # Parseval Power Verification Using MATLAB
 
 A MATLAB-based Digital Signal Processing (DSP) project that verifies Parseval's theorem by comparing the average mean-square power of a signal in the time domain and frequency domain using Fast Fourier Transform (FFT) analysis.
